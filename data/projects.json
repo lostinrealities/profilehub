@@ -5,7 +5,7 @@
     "descriptionEN": "ProfileHub is a website that using modern technologies like as TypeScript and VueJS. It devided into several sections, such as: Education, Skills, Experience, Projects and Contant. The goal of the project is create a professional portfolio that will allow me to present my skills and experience in an atractions and clear way. The project also allows me to develop my skills in user interface desing and web application development.",
     "url": "",
     "startDate": "31.07.2026",
-    "endDate": "31.08.2026",
+    "endDate": "",
     "technology": ["VueJS", "TypeScript"]
   },
   {
@@ -25,6 +25,15 @@
     "startDate": "29.05.2026",
     "endDate": "",
     "technology": ["NodeJS", "TypeScript", "MySQL"]
+  },
+  {
+    "name": "HomeLab",
+    "descriptionPL": "Moje domowe 'labolatorium' składające się z jednego miniPC (Lenovo ThinkCentre Tiny) z uruchomionym systemem Proxmox 9.2.0. Aktualnie są na nim uruchomione maszyny wirtualne z systemami Linux Debian 13, Ubuntu 26 oraz TrueNAS. TrueNAS pracuje oczywiście jako serwer NAS, natomiast pozostałe mają różne zadania m.in. serwer DNS, brama VPN, serwer NGINX, serwer MySQL, serwer Dockera, rejestrator NVR (AgentDVR).",
+    "descriptionEN": "",
+    "url": "",
+    "startDate": "08.12.2024",
+    "endDate": "",
+    "technology": []
   },
   {
     "name": "xAstro",
