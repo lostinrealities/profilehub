@@ -1,1 +1,0 @@
-import{g as e,m as t,n,s as r}from"./index-BlX1kLPc.js";var i={};function a(n,i){return t(),r(`i`,null,[e(n.$slots,`default`,{},void 0,!0)])}var o=n(i,[[`render`,a],[`__scopeId`,`data-v-f43eeb4e`]]);export{o as t};
