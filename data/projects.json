@@ -1,0 +1,38 @@
+[
+  {
+    "name": "ProfileHub",
+    "descriptionPL": "ProfileHub to strona internetowa, w której wykorzystuje nowoczesne technologie, takie jak TypeScript i VueJS. Podzielona jest na kilka sekcji, takich jak: Edukacja, Umiejętności, Doświadczenie, Projekty i Kontakt. Celem projektu jest stworzenie profesjonalnego portfolio, które pozwoli mi zaprezentować moje umiejętności i doświadczenie w sposób atrakcyjny i przejrzysty. Projekt ten pozwala mi również na rozwijanie moich umiejętności w zakresie projektowania interfejsów użytkownika i tworzenia aplikacji internetowych.",
+    "descriptionEN": "ProfileHub is a website that using modern technologies like as TypeScript and VueJS. It devided into several sections, such as: Education, Skills, Experience, Projects and Contant. The goal of the project is create a professional portfolio that will allow me to present my skills and experience in an atractions and clear way. The project also allows me to develop my skills in user interface desing and web application development.",
+    "url": "",
+    "startDate": "31.07.2026",
+    "endDate": "31.08.2026",
+    "technology": ["VueJS", "TypeScript"]
+  },
+  {
+    "name": "EtherWatch",
+    "descriptionPL": "EtherWatch to system monitorowania urządzeń w sieci. Jest on rozbudowaną wersja mojego projektu rozwijanego na studiach w języku PHP. Obecny projekt korzysta z kilku technologii m.in. VueJS, TypeScript, NodeJS, MySQL, SQLite. Jego zadaniem jest monitorowanie stanu urządzeń w sieci w czasie rzeczywistym, a docelowo zostanie on rozbudowany m.in. o usługę (agenta) do instalacji na docelowym urządzeniu z możliwością jego kontroli oraz o aplikację mobilną.",
+    "descriptionEN": "EtherWatch is a network monitoring system. It's an extended version of a project I oryginally developed in PHP while I was studying. The current project uses several technologies such as VueJS, TypeScript, NodeJS, MySQL, SQLite. The goal of the project is monitor the status of network devices in real time. Ultimately, it will be expanded to include a service (an agent) installed on target devices with the possibility of control them as well as a mobile application.",
+    "url": "",
+    "startDate": "31.07.2026",
+    "endDate": "",
+    "technology": ["VueJS", "TypeScript", "MySQL", "SQLite"]
+  },
+  {
+    "name": "LIR Update Service",
+    "descriptionPL": "Usługa napisana w technologii NodeJS oraz wykorzystująca bazę danych MySQL. Przygotowana w celu zautomatyzowania aktualizacji aplikacji (obecnie tylko EtherWatch) na serwerach bez ręcznej ingerencji w pliki innego urządzenia.",
+    "descriptionEN": "",
+    "url": "",
+    "startDate": "29.05.2026",
+    "endDate": "",
+    "technology": ["NodeJS", "TypeScript", "MySQL"]
+  },
+  {
+    "name": "xAstro",
+    "descriptionPL": "Projekt w trakcie planowania związany z moim zainteresowaniem - astronomią. Projekt będzie polegał na przygotowaniu aplikacji, która umożliwi sterowanie teleskopem i podgląd na żywo. Planowo aplikacja zostanie napisana w języku C#, a niektóre skrypty w języku Python. Język C++ zostanie wykorzystany prawdopodobnie do zaprogramowania sterownika sterującego teleskopem (raspberry / arduino). ",
+    "descriptionEN": "",
+    "url": "",
+    "startDate": "nieznana",
+    "endDate": "",
+    "technology": ["C#", "Python", "C++"]
+  }
+]
