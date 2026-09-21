@@ -3,12 +3,13 @@
   "positionPL": "Specjalista IT / Fullstack Developer",
   "positionEN": "IT Specialist / Fullstack Developer",
   "aboutPL": [
-    "Jestem specjalistą IT z umiejętnościami w programowaniu oraz administracji sieciowej i systemowej",
-    "To jest moja strona internetowa, na której chciałbym przedstawić moje projekty i umiejętności"
+    "Jestem specjalistą IT z umiejętnościami w programowaniu oraz administracji sieciowej i systemowej.",
+    "To jest moje portfolio, w którym chciałbym przedstawić siebie oraz moje projekty i umiejętności.",
+    "\n\n Strona z biegiem czasu będzie aktualizowana i będzie zmieniać wygląd."
   ],
   "aboutEN": [
-    "I am an IT specialist with skills in programming and network and system administration",
-    "This is my website, where I would like to present my projects and skills"
+    "I am an IT specialist with skills in programming and network and system administration.",
+    "This is my portfolio, where I would like to present myself, my projects and skills."
   ],
   "skills": [
     {
@@ -47,7 +48,7 @@
         "Naprawa wadliwej elektroniki",
         "Zgłaszanie wszelkich błędów wykrytych w trakcie testów",
         "Obsługa systemu ERP",
-        "Wsparanie innych działów"
+        "Wsparcie innych działów"
       ],
       "responsibilitiesEN": [""]
     },

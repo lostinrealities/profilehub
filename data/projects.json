@@ -6,7 +6,14 @@
     "url": "",
     "startDate": "31.07.2026",
     "endDate": "",
-    "technology": ["VueJS", "TypeScript"]
+    "technology": ["VueJS", "TypeScript"],
+    "images": [],
+    "plans": [
+      "Dodanie ciemnego motywu",
+      "Poprawienie styli CSS w celu poprawienia wyglądu strony",
+      "Poprawa responsywności strony",
+      "Dodanie logów i obsługi błędów"
+    ]
   },
   {
     "name": "EtherWatch",
@@ -15,7 +22,24 @@
     "url": "",
     "startDate": "31.07.2026",
     "endDate": "",
-    "technology": ["VueJS", "TypeScript", "MySQL", "SQLite"]
+    "technology": ["VueJS", "TypeScript", "MySQL", "SQLite"],
+    "images": ["login", "devices", "settings"],
+    "plans": [
+      "Poprawa zapytań SQL",
+      "Refaktoryzacja kodu źródłowego",
+      "Dodanie opcji dezaktywacji konta",
+      "Dodanie opcji sortowania i filtrowania urządzeń i użytkowników",
+      "Poprawienie autoryzacji i kontroli dostępu (kontrola na etapie wykonywania polecenia)",
+      "Dodanie dashboardu",
+      "Dodanie obsługi SQLite",
+      "Dodanie obsługi certyfikatów i HTTPS",
+      "Test bazpieczeństwa aplikacji (testy penetracyjne)",
+      "Napisanie agenta instalowanego na urządzeniach",
+      "Napisanie aplikacji na androida",
+      "Dodanie websocket do komunikacji w czasie rzeczywistym",
+      "Napisanie skrytów umożliwiających komunikacje i wysyłanie powiadomień o awariach urządzeń",
+      "Dodanie logów i obsługi błędów"
+    ]
   },
   {
     "name": "LIR Update Service",
@@ -24,7 +48,15 @@
     "url": "",
     "startDate": "29.05.2026",
     "endDate": "",
-    "technology": ["NodeJS", "TypeScript", "MySQL"]
+    "technology": ["NodeJS", "TypeScript", "MySQL"],
+    "images": [],
+    "plans": [
+      "Poprawienie endpointów API",
+      "Dodanie skryptu automatyzującego dodawanie nowej aktualizacji (GUI?)",
+      "Sprawdzenie zabezpieczeń aplikacji i bazy danych (testy penetracyjne)",
+      "Dodanie obsługi certyfikatów i HTTPS",
+      "Dodanie logów i obsługi błędów"
+    ]
   },
   {
     "name": "HomeLab",
@@ -33,7 +65,13 @@
     "url": "",
     "startDate": "08.12.2024",
     "endDate": "",
-    "technology": ["Linux", "Proxmox"]
+    "technology": ["Linux", "Proxmox"],
+    "images": ["dashboard"],
+    "plans": [
+      "Rozbudowa o kolejny serwer (miniPC) (+2 sztuki?)",
+      "Konfiguracja wysokiej dostępności usług (HA)",
+      "Przeniesienie serwera NAS na inne urządzenie?"
+    ]
   },
   {
     "name": "xAstro",
@@ -42,6 +80,12 @@
     "url": "",
     "startDate": "nieznana",
     "endDate": "",
-    "technology": ["CSharp", "Python", "Cpp"]
+    "technology": ["CSharp", "Python", "Cpp"],
+    "images": [],
+    "plans": [
+      "Aplikacja z podglądem na żywo z teleskopu (poprzez kamerę)",
+      "Sterowanie kamerą",
+      "Sterowanie ustawieniem teleskopu"
+    ]
   }
 ]
