@@ -1,0 +1,16 @@
+{
+  "education": [
+    {
+      "school": "Technikum - ZS Libiąż",
+      "fieldPL": "Technik Elektronik",
+      "fieldEN": "Electronics Technician",
+      "years": "09/2016 - 06/2020"
+    },
+    {
+      "school": "MUP Oświęcim",
+      "fieldPL": "Informatyka",
+      "fieldEN": "Computer Science",
+      "years": "10/2022 - 03/2026"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "experience": [
+    {
+      "company": "P.P.U.H. 'GECO' Sp.z.o.o",
+      "rolePL": "Elektronik w dziale Testów",
+      "roleEN": "Electronics Testing Specialist",
+      "years": "07/2020 - teraz",
+      "responsibilitiesPL": [
+        "Testowanie i wykrywanie wad sterowników",
+        "Naprawa wadliwej elektroniki",
+        "Zgłaszanie wszelkich błędów wykrytych w trakcie testów",
+        "Obsługa systemu ERP",
+        "Wsparcie innych działów"
+      ],
+      "responsibilitiesEN": [
+        "Testing and looking for drawbacks of controllers",
+        "Repairing electronic devices",
+        "Reporting detected mistakes during testing",
+        "Operating the ERP System",
+        "Support other departaments"
+      ]
+    },
+    {
+      "company": "P.P.U.H. 'GECO' Sp.z.o.o",
+      "rolePL": "Praktykant w dziale IT",
+      "roleEN": "IT Intern",
+      "years": "10/2024 - 03/2026 (720h)",
+      "responsibilitiesPL": [
+        "Wsparcie użykowników końcowych",
+        "Serwis urządzeń (komputerów, drukarek itp.)",
+        "Przygotowanie nowych urządzeń do pracy w domenie",
+        "Rozwiązywanie problemów z oprogramowaniem i jego aktualizacja",
+        "Instalacja i konfiguracja oprogramowania",
+        "Współudział w pracach administracyjnych - przy awariach oraz modyfikacjach",
+        "Programowanie skryptów do automatyzacji (bash)"
+      ],
+      "responsibilitiesEN": [
+        "Supporting end users",
+        "Servicing end device",
+        "Prepare new devices to work at domain",
+        "Software troubleshooting and software updating",
+        "Installing and configuring software",
+        "Participation on administrative work",
+        "Writting scripts code in bash"
+      ]
+    }
+  ]
+}

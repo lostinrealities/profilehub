@@ -3,71 +3,19 @@
   "positionPL": "Specjalista IT / Fullstack Developer",
   "positionEN": "IT Specialist / Fullstack Developer",
   "aboutPL": [
-    "Jestem absolwentem studiów informatycznych. Zajmuję się programowaniem oraz administracją.",
-    "To jest moje portfolio, w którym chciałbym przedstawić siebie oraz moje umiejętności i projekty rozwijane w wolnym czasie.",
-    "\n\n Strona jest w tracie rozwoju i będzie z biegiem czasu aktualizowana i zmieniana."
+    "Jestem specjalistą IT z umiejętnościami w programowaniu oraz administracji sieciowej i systemowej.",
+    "To jest moje portfolio, w którym chciałbym przedstawić siebie oraz moje projekty i umiejętności.",
+    "\n\n Strona z biegiem czasu będzie aktualizowana i będzie zmieniać wygląd."
   ],
   "aboutEN": [
-    "I am an IT specialist and I have a degree in computer science. I work in programming and system administration",
+    "I am an IT specialist with skills in programming and network and system administration.",
     "This is my portfolio, where I would like to present myself, my projects and skills.",
-    "\n\n This website is currently under construction. It will be updated."
+    "\n\n The website will be updated over time."
   ],
-  "skills": [
-    {
-      "VueJS": 2,
-      "JavaScript": 2,
-      "Python": 2,
-      "Windows": 3,
-      "Windows Server": 3,
-      "Linux": 3,
-      "NodeJS": 2,
-      "Java": 2
-    }
-  ],
-  "education": [
-    {
-      "school": "Technikum - ZS Libiąż",
-      "fieldPL": "Technik Elektronik",
-      "fieldEN": "Electronics Technician",
-      "years": "09/2016 - 06/2020"
-    },
-    {
-      "school": "MUP Oświęcim",
-      "fieldPL": "Informatyka",
-      "fieldEN": "Computer Science",
-      "years": "10/2022 - 03/2026"
-    }
-  ],
-  "experience": [
-    {
-      "company": "P.P.U.H. 'GECO' Sp.z.o.o",
-      "rolePL": "Elektronik w dziale Testów",
-      "roleEN": "Electronics Testing Specialist",
-      "years": "07/2020 - teraz",
-      "responsibilitiesPL": [
-        "Testowanie i wykrywanie wad sterowników",
-        "Naprawa wadliwej elektroniki",
-        "Zgłaszanie wszelkich błędów wykrytych w trakcie testów",
-        "Obsługa systemu ERP",
-        "Wsparcie innych działów"
-      ],
-      "responsibilitiesEN": [""]
-    },
-    {
-      "company": "P.P.U.H. 'GECO' Sp.z.o.o",
-      "rolePL": "Praktykant w dziale IT",
-      "roleEN": "IT Intern",
-      "years": "10/2024 - 03/2026 (720h)",
-      "responsibilitiesPL": [
-        "Wsparcie użykowników końcowych",
-        "Serwis urządzeń (komputerów, drukarek itp.)",
-        "Przygotowanie nowych urządzeń do pracy w domenie",
-        "Rozwiązywanie problemów z oprogramowaniem i jego aktualizacja",
-        "Instalacja i konfiguracja oprogramowania",
-        "Współudział w pracach administracyjnych - przy awariach oraz modyfikacjach",
-        "Programowanie skryptów do automatyzacji (bash)"
-      ],
-      "responsibilitiesEN": [""]
-    }
-  ]
+  "aboutmePL": "Od dziecka interesowała mnie technologia, pierw elektronika, z którą pracuję od 5 lat. A od około 7 lat również informatyka, z której w marcu 2026 roku ukończyłem studia inżynierskie. Głównymi kierunkami, w których się rozwijam i chce się rozwijać to programowanie, cyberbezpieczeństwo oraz po części administracja systemami.",
+  "aboutmeEN": "Coming soon...",
+  "aboutprojectsPL": "Aktualnie pracuję nad prywatnymi projektami związanymi bezpośrednio z programowaniem. Do pisania kodu wykorzystuję program Visual Studio Code oraz system wersjonowania - Git. W przyszłości planuję kolejne projekty i rozszerzenia obecnych projektów, które będą napisane w innych technologiach. W wolnych chwilach pracuję nad moim 'domowym labolatorium'.\n\n --->  Więcej informacji w zakładce Projekty",
+  "aboutprojectsEN": "Coming soon...",
+  "aboutprivPL": "Prywatnie interesuję się również astronomią oraz motoryzacją.",
+  "aboutprivEN": "Coming soon..."
 }
