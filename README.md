@@ -6,11 +6,11 @@
 - [Technologie](#technologie)
 - [Licencja](#licencja)
 
-### 📖 O projekcie (About Project)
+## 📖 O projekcie (About Project)
 
 
 
-### 📔 Technologie (Tech Stack)
+## 📔 Technologie (Tech Stack)
 ```markdown
 ## ⚙️ Technologie
 * **Frontend:** VueJS
@@ -19,7 +19,7 @@
 ```
 
 
-### 📄 Licencja (License)
+## 📄 Licencja (License)
 Default Copyright / All Rights Reserved
 
 
