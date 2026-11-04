@@ -4,18 +4,16 @@
   "positionEN": "IT Specialist / Fullstack Developer",
   "aboutPL": [
     "Jestem specjalistą IT z umiejętnościami w programowaniu oraz administracji sieciowej i systemowej.",
-    "To jest moje portfolio, w którym chciałbym przedstawić siebie oraz moje projekty i umiejętności.",
-    "\n\n Strona z biegiem czasu będzie aktualizowana i będzie zmieniać wygląd."
+    "To jest moje portfolio, w którym chciałbym przedstawić siebie oraz moje projekty i umiejętności."
   ],
   "aboutEN": [
     "I am an IT specialist with skills in programming and network and system administration.",
-    "This is my portfolio, where I would like to present myself, my projects and skills.",
-    "\n\n The website will be updated over time."
+    "This is my portfolio, where I would like to present myself, my projects and skills."
   ],
-  "aboutmePL": "Od dziecka interesowała mnie technologia, pierw elektronika, z którą pracuję od 5 lat. A od około 7 lat również informatyka, z której w marcu 2026 roku ukończyłem studia inżynierskie. Głównymi kierunkami, w których się rozwijam i chce się rozwijać to programowanie, cyberbezpieczeństwo oraz po części administracja systemami.",
-  "aboutmeEN": "Coming soon...",
-  "aboutprojectsPL": "Aktualnie pracuję nad prywatnymi projektami związanymi bezpośrednio z programowaniem. Do pisania kodu wykorzystuję program Visual Studio Code oraz system wersjonowania - Git. W przyszłości planuję kolejne projekty i rozszerzenia obecnych projektów, które będą napisane w innych technologiach. W wolnych chwilach pracuję nad moim 'domowym labolatorium'.\n\n --->  Więcej informacji w zakładce Projekty",
-  "aboutprojectsEN": "Coming soon...",
+  "aboutmePL": "Od dziecka interesowała mnie technologia, pierw elektronika, z którą pracuję od 5 lat. A od około 7 lat również informatyka, z której w marcu 2026 roku ukończyłem studia inżynierskie. Główne kierunki w których się rozwijam to programowanie, cyberbezpieczeństwo oraz administracja systemami.",
+  "aboutmeEN": "I always interested in technology, first electronics, which I have benn working with for 5 years. And for about 7 years also IT, fromwhich I granduaded in March 2026 with a engineering degree. The main directions in which I develop are programming, cybersecurity and system administration.",
+  "aboutprojectsPL": "Aktualnie pracuję nad prywatnymi projektami związanymi bezpośrednio z programowaniem. Do pisania kodu wykorzystuję program Visual Studio Code oraz system wersjonowania - Git. W przyszłości planuję kolejne projekty i rozszerzenia obecnych projektów, które będą napisane w innych technologiach. W wolnych chwilach pracuję nad moim 'domowym labolatorium'.\n\n --- Więcej informacji w zakładce Projekty",
+  "aboutprojectsEN": "Currently I am working on private projects directly related to programming. I use Visual Studio Code and Git version control system for coding. In future, I plan to create new projects and expand existing ones. In free time, I work on my 'home laboratory'.\n\n --- More information in the Projects tab",
   "aboutprivPL": "Prywatnie interesuję się również astronomią oraz motoryzacją.",
-  "aboutprivEN": "Coming soon..."
+  "aboutprivEN": "In my private life I am also interested in astronomy and automotive."
 }

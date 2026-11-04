@@ -1,10 +1,16 @@
 {
   "experience": [
     {
+      "company": "Technikum - ZS Libiąż",
+      "rolePL": "Technik Elektronik",
+      "roleEN": "Electronics Technician",
+      "years": "09/2016 - 06/2020"
+    },
+    {
       "company": "P.P.U.H. 'GECO' Sp.z.o.o",
       "rolePL": "Elektronik w dziale Testów",
       "roleEN": "Electronics Testing Specialist",
-      "years": "07/2020 - teraz",
+      "years": "07/2020 - 01/2027",
       "responsibilitiesPL": [
         "Testowanie i wykrywanie wad sterowników",
         "Naprawa wadliwej elektroniki",
@@ -21,9 +27,15 @@
       ]
     },
     {
+      "company": "MUP Oświęcim",
+      "rolePL": "Inżynier Informatyk",
+      "roleEN": "Computer Science Engineer",
+      "years": "10/2022 - 03/2026"
+    },
+    {
       "company": "P.P.U.H. 'GECO' Sp.z.o.o",
-      "rolePL": "Praktykant w dziale IT",
-      "roleEN": "IT Intern",
+      "rolePL": "Młodszy administrator IT (praktykant)",
+      "roleEN": "Junior IT Administrator (Intern)",
       "years": "10/2024 - 03/2026 (720h)",
       "responsibilitiesPL": [
         "Wsparcie użykowników końcowych",

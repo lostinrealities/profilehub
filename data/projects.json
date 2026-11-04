@@ -1,55 +1,126 @@
 [
   {
     "name": "ProfileHub",
+    "type": "root",
+    "rootProject": "",
     "descriptionPL": "ProfileHub to strona internetowa, w której wykorzystuje nowoczesne technologie, takie jak TypeScript i VueJS. Podzielona jest na kilka sekcji, takich jak: Edukacja, Umiejętności, Doświadczenie, Projekty i Kontakt. Celem projektu jest stworzenie profesjonalnego portfolio, które pozwoli mi zaprezentować moje umiejętności i doświadczenie w sposób atrakcyjny i przejrzysty. Projekt ten pozwala mi również na rozwijanie moich umiejętności w zakresie projektowania interfejsów użytkownika i tworzenia aplikacji internetowych.",
     "descriptionEN": "ProfileHub is a website that using modern technologies like as TypeScript and VueJS. It devided into several sections, such as: Education, Skills, Experience, Projects and Contant. The goal of the project is create a professional portfolio that will allow me to present my skills and experience in an atractions and clear way. The project also allows me to develop my skills in user interface desing and web application development.",
     "url": "https://lostinrealities.github.io/profilehub/",
     "startDate": "31.07.2026",
     "endDate": "",
     "technology": ["VueJS", "TypeScript"],
-    "images": [],
+    "images": ["main_old", "main", "projects"],
     "plans": [
-      "Dodanie ciemnego motywu",
-      "Poprawienie styli CSS w celu poprawienia wyglądu strony",
-      "Poprawa responsywności strony",
-      "Dodanie animacji"
-    ],
-    "plansEN": [
-      "Add dark Mode",
-      "Improve CSS styles",
-      "Improve website responsibility",
-      "Add animations"
+      {
+        "name": "Dodanie ciemnego motywu",
+        "nameEN": "Add dark mode",
+        "isActive": "false"
+      },
+      {
+        "name": "Poprawienie styli CSS w celu poprawienia wyglądu strony",
+        "nameEN": "Improve CSS styles",
+        "isActive": "false"
+      },
+      {
+        "name": "Poprawa responsywności strony",
+        "nameEN": "Improve website responsibility",
+        "isActive": "false"
+      },
+      {
+        "name": "Dodanie animacji",
+        "nameEN": "Add animations",
+        "isActive": "false"
+      }
     ]
   },
   {
     "name": "EtherWatch",
+    "type": "root",
+    "rootProject": "",
     "descriptionPL": "EtherWatch to system monitorowania urządzeń w sieci. Jest on rozbudowaną wersja mojego projektu rozwijanego na studiach w języku PHP. Obecny projekt korzysta z kilku technologii m.in. VueJS, TypeScript, NodeJS, MySQL, SQLite. Jego zadaniem jest monitorowanie stanu urządzeń w sieci w czasie rzeczywistym, a docelowo zostanie on rozbudowany m.in. o usługę (agenta) do instalacji na docelowym urządzeniu z możliwością jego kontroli oraz o aplikację mobilną.",
     "descriptionEN": "EtherWatch is a network monitoring system. It's an extended version of a project I oryginally developed in PHP while I was studying. The current project uses several technologies such as VueJS, TypeScript, NodeJS, MySQL, SQLite. The goal of the project is monitor the status of network devices in real time. Ultimately, it will be expanded to include a service (an agent) installed on target devices with the possibility of control them as well as a mobile application.",
     "url": "",
     "startDate": "26.04.2026",
     "endDate": "",
-    "technology": ["VueJS", "TypeScript", "MySQL", "SQLite"],
+    "technology": ["VueJS", "TypeScript", "MySQL", "SQLite", "ChartJS", "NodeJS"],
     "images": ["login", "devices", "settings"],
     "plans": [
-      "Poprawa zapytań SQL",
-      "Refaktoryzacja kodu źródłowego",
-      "Dodanie opcji dezaktywacji konta",
-      "Dodanie opcji sortowania i filtrowania urządzeń i użytkowników",
-      "Poprawienie autoryzacji i kontroli dostępu (kontrola na etapie wykonywania polecenia)",
-      "Dodanie dashboardu",
-      "Dodanie obsługi SQLite",
-      "Dodanie obsługi certyfikatów i HTTPS",
-      "Test bazpieczeństwa aplikacji (testy penetracyjne)",
-      "Napisanie agenta instalowanego na urządzeniach",
-      "Napisanie aplikacji na androida",
-      "Dodanie websocket do komunikacji w czasie rzeczywistym",
-      "Napisanie skrytów umożliwiających komunikacje i wysyłanie powiadomień o awariach urządzeń",
-      "Dodanie logów i obsługi błędów"
-    ],
-    "plansEN": ["Coming soon..."]
+      {
+        "name": "Poprawa zapytań SQL",
+        "nameEN": "Improve SQL queries",
+        "isActive": "false"
+      },
+      {
+        "name": "Refaktoryzacja kodu źródłowego",
+        "nameEN": "Refactor source code",
+        "isActive": "false"
+      },
+      {
+        "name": "Dodanie opcji dezaktywacji konta",
+        "nameEN": "Add option to deactive account",
+        "isActive": "false"
+      },
+      {
+        "name": "Dodanie opcji sortowania i filtrowania urządzeń i użytkowników",
+        "nameEN": "Add option to sort and filter devices and users",
+        "isActive": "false"
+      },
+      {
+        "name": "Poprawienie autoryzacji i kontroli dostępu (kontrola na etapie wykonywania polecenia)",
+        "nameEN": "Improve auth and access control",
+        "isActive": "false"
+      },
+      {
+        "name": "Dodanie dashboardu",
+        "nameEN": "Add dashboard",
+        "isActive": "false"
+      },
+      {
+        "name": "Dodanie obsługi SQLite",
+        "nameEN": "Add support for SQLite",
+        "isActive": "false"
+      },
+      {
+        "name": "Dodanie obsługi certyfikatów i HTTPS",
+        "nameEN": "Add support for HTTPS and certificates",
+        "isActive": "false"
+      },
+      {
+        "name": "Test bezpieczeństwa aplikacji (testy penetracyjne)",
+        "nameEN": "Application security testing (pentests)",
+        "isActive": "false"
+      },
+      {
+        "name": "Napisanie agenta instalowanego na urządzeniach",
+        "nameEN": "Build an agent which to be installed on devices",
+        "isActive": "false"
+      },
+      {
+        "name": "Napisanie aplikacji na androida",
+        "nameEN": "Build a mobile app",
+        "isActive": "false"
+      },
+      {
+        "name": "Dodanie websocket do komunikacji w czasie rzeczywistym",
+        "nameEN": "Add Websockets for real-time communication",
+        "isActive": "false"
+      },
+      {
+        "name": "Napisanie skrytów umożliwiających komunikacje i wysyłanie powiadomień o awariach urządzeń",
+        "nameEN": "Build scripts to communicate and send notifications about device errors",
+        "isActive": "false"
+      },
+      {
+        "name": "Dodanie logów i obsługi błędów",
+        "nameEN": "Add logs and error handling",
+        "isActive": "true"
+      }
+    ]
   },
   {
     "name": "LIR Update Service",
+    "type": "root",
+    "rootProject": "",
     "descriptionPL": "Usługa aktualizacji wykorzystująca technologie NodeJS oraz bazę danych MySQL. Przygotowana w celu zautomatyzowania aktualizacji aplikacji (obecnie tylko EtherWatch) na serwerach bez ręcznej ingerencji.",
     "descriptionEN": "A Service built using NodeJS and MySQL database. Prepare to automatic updating of applications (current only EtherWatch) on servers without the need for manual intervention.",
     "url": "",
@@ -58,16 +129,37 @@
     "technology": ["NodeJS", "TypeScript", "MySQL"],
     "images": [],
     "plans": [
-      "Poprawienie endpointów API",
-      "Dodanie skryptu automatyzującego dodawanie nowej aktualizacji (GUI?)",
-      "Sprawdzenie zabezpieczeń aplikacji i bazy danych (testy penetracyjne)",
-      "Dodanie obsługi certyfikatów i HTTPS",
-      "Dodanie logów i obsługi błędów"
-    ],
-    "plansEN": ["Coming soon..."]
+      {
+        "name": "Poprawienie endpointów API",
+        "nameEN": "Improve an API endpoints",
+        "isActive": "false"
+      },
+      {
+        "name": "Dodanie skryptu automatyzującego dodawanie nowej aktualizacji",
+        "nameEN": "Add script to insert update data into the database",
+        "isActive": "false"
+      },
+      {
+        "name": "Sprawdzenie zabezpieczeń aplikacji i bazy danych (testy penetracyjne)",
+        "nameEN": "Audit the security of the app and database",
+        "isActive": "false"
+      },
+      {
+        "name": "Dodanie obsługi certyfikatów i HTTPS",
+        "nameEN": "Add support for HTTPS and certificates",
+        "isActive": "false"
+      },
+      {
+        "name": "Dodanie logów i obsługi błędów",
+        "nameEN": "Add logs and error handling",
+        "isActive": "false"
+      }
+    ]
   },
   {
     "name": "HomeLab",
+    "type": "root",
+    "rootProject": "",
     "descriptionPL": "Moje domowe 'labolatorium' składające się z jednego miniPC (Lenovo ThinkCentre Tiny) z uruchomionym systemem Proxmox 9.2.0. Aktualnie są na nim uruchomione maszyny wirtualne z systemami Linux Debian 13, Ubuntu 26 oraz TrueNAS. TrueNAS pracuje oczywiście jako serwer NAS, natomiast pozostałe mają różne zadania m.in. serwer DNS, brama VPN, serwer NGINX, serwer MySQL, silnik Dockera, rejestrator NVR (AgentDVR).",
     "descriptionEN": "My home 'labolatory' consists of a one miniPC with Proxmox 9.2.0 OS. Currently, there are running virtual machines with Linux Debian 13 OS, Ubuntu 26 OS and TrueNAS. TrueNAS is working as a NAS server and others have differents tasks such as DNS Server, VPN Gate, NGINX Server, MySQL Server, Docker Engine, NVR (Agent DVR).",
     "url": "",
@@ -76,14 +168,27 @@
     "technology": ["Linux", "Proxmox"],
     "images": ["dashboard"],
     "plans": [
-      "Rozbudowa o kolejny serwer (miniPC) (+2 sztuki?)",
-      "Konfiguracja wysokiej dostępności usług (HA)",
-      "Przeniesienie serwera NAS na inne urządzenie?"
-    ],
-    "plansEN": ["Coming soon..."]
+      {
+        "name": "Rozbudowa o kolejny serwer",
+        "nameEN": "Expand the infrastrucure to include a new server",
+        "isActive": "false"
+      },
+      {
+        "name": "Konfiguracja wysokiej dostępności usług (HA)",
+        "nameEN": "Configure high-availability services",
+        "isActive": "false"
+      },
+      {
+        "name": "Przeniesienie serwera NAS na inne urządzenie?",
+        "nameEN": "Move the NAS server to another device",
+        "isActive": "false"
+      }
+    ]
   },
   {
     "name": "xAstro",
+    "type": "root",
+    "rootProject": "",
     "descriptionPL": "Projekt w trakcie planowania związany z moim zainteresowaniem - astronomią. Projekt będzie polegał na przygotowaniu aplikacji, która umożliwi sterowanie teleskopem i podgląd na żywo. Planowo aplikacja zostanie napisana w języku C#, a niektóre skrypty w języku Python. Język C++ zostanie wykorzystany prawdopodobnie do zaprogramowania sterownika sterującego teleskopem (Raspberry Pi / Arduino). ",
     "descriptionEN": "A project is in the planning process. It is connected to my interest - astronomy. The project will be an application which allows control of the telescope. I plan that the application will be built using C#, but several scripts will be using Python. To build software to controller (probably Raspberry Pi / Arduino) who will be control of the telescope I use C++.",
     "url": "",
@@ -92,10 +197,58 @@
     "technology": ["CSharp", "Python", "Cpp"],
     "images": [],
     "plans": [
-      "Aplikacja z podglądem na żywo z teleskopu (poprzez kamerę)",
-      "Sterowanie kamerą",
-      "Sterowanie ustawieniem teleskopu"
-    ],
-    "plansEN": ["Coming soon..."]
+      {
+        "name": "Zaprogramować aplikacje z podglądem na żywo z teleskopu używając kamery",
+        "nameEN": "Build an app with a telescope live view using a camera",
+        "isActive": "false"
+      },
+      {
+        "name": "Sterowanie kamerą",
+        "nameEN": "Add support for controlling the camera",
+        "isActive": "false"
+      },
+      {
+        "name": "Dodanie sterowaniem ustawieniem teleskopu",
+        "nameEN": "Implement a telescope setup control",
+        "isActive": "false"
+      }
+    ]
+  },
+  {
+    "name": "EtherWatch Agent",
+    "type": "sub",
+    "rootProject": "EtherWatch",
+    "descriptionPL": "Usługa napisana w języku Go, której zadaniem jest pobieranie danych z urządzenia na którym została zainstalowana i przekazywanie ich do serwera poprzez REST API. Usługa przekazuje m.in. informacje o zużyciu zasobów oraz ich typie.",
+    "descriptionEN": "A service built using Go Language. The goal of the service is to collect data from the device on which it is installed and send it to the server via REST API. The service sends information about resource usage and their type.",
+    "url": "",
+    "startDate": "08.10.2026",
+    "endDate": "",
+    "technology": ["Go"],
+    "images": [],
+    "plans": []
+  },
+  {
+    "name": "EtherWatch Mobile",
+    "type": "sub",
+    "rootProject": "EtherWatch",
+    "descriptionPL": "Aplikacja mobilna, która zostanie napisana prawdopodobnie w języku Kotlin (być może Java). Aplikacja będzie odzwierciedleniem aplikacji webowej usługi EtherWatch, która umożliwi połączenie z serwerem i zdalną kontrolę.",
+    "descriptionEN": "A mobile application that will be built using Kotlin (possibly Java). The app will mirror to a website of an EtherWatch service that will allow users to connect to the EtherWatch API Server.",
+    "url": "",
+    "startDate": "",
+    "endDate": "",
+    "technology": ["Java", "Kotlin"],
+    "images": [],
+    "plans": []
+  },
+  {
+    "name": "",
+    "descriptionPL": "",
+    "descriptionEN": "",
+    "url": "",
+    "startDate": "",
+    "endDate": "",
+    "technology": [""],
+    "images": [],
+    "plans": []
   }
 ]
