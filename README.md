@@ -1,19 +1,16 @@
 # ProfileHUB 👤
 
-Krótki opis wyjaśniający główny cel aplikacji lub biblioteki (np. "Aplikacja webowa do zarządzania budżetem domowym opierająca się na React i Node.js").
-My website, where I would like to present my projects and skills.
 
-
-## Spis treści
+## 📋 Spis treści
 - [O projekcie](#o-projekcie)
 - [Technologie](#technologie)
 - [Licencja](#licencja)
 
-### O projekcie (About Project)
+### 📖 O projekcie (About Project)
 
 
 
-### Technologie (Tech Stack)
+### 📔 Technologie (Tech Stack)
 ```markdown
 ## ⚙️ Technologie
 * **Frontend:** VueJS
@@ -22,8 +19,7 @@ My website, where I would like to present my projects and skills.
 ```
 
 
-### Licencja (License)
-## 📄 Licencja
+### 📄 Licencja (License)
 Default Copyright / All Rights Reserved
 
 
