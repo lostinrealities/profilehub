@@ -19,6 +19,7 @@ My website, where I would like to present my projects and skills.
 * **Frontend:** VueJS
 * **Backend:** Node.js, Express
 * **Baza danych:** MariaDB
+```
 
 
 ### Licencja (License)
