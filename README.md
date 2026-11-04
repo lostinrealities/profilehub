@@ -4,15 +4,13 @@ Krótki opis wyjaśniający główny cel aplikacji lub biblioteki (np. "Aplikacj
 My website, where I would like to present my projects and skills.
 
 
-[![Licencja: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ## Spis treści
 - [O projekcie](#o-projekcie)
-- [Wymagania wstępne](#wymagania-wstępne)
-- [Instalacja](#instalacja)
-- [Użycie](#użycie)
 - [Technologie](#technologie)
 - [Licencja](#licencja)
+
+### O projekcie (About Project)
+
 
 
 ### Technologie (Tech Stack)
@@ -22,7 +20,9 @@ My website, where I would like to present my projects and skills.
 * **Backend:** Node.js, Express
 * **Baza danych:** MariaDB
 
+
+### Licencja (License)
 ## 📄 Licencja
-Ten projekt jest objęty licencją [MIT](LICENSE).
+Default Copyright / All Rights Reserved
 
 
