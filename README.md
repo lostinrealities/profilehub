@@ -8,16 +8,14 @@
 
 ## O projekcie (About Project) 📖
 
-###PL
+#PL
 
-###EN
+#EN
 
 ## Technologie (Tech Stack) ⚙️
-```
 **Frontend:** VueJS
 **Backend:** Node.js, Express
 **Baza danych:** MariaDB
-```
 
 
 ## Licencja (License) 📄
